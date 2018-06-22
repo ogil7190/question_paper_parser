@@ -1,0 +1,56 @@
+[{
+		"name": "PERSONALITY DEVELOPEMENT EXAM - 2",
+		"instructions": "All questions are compulsory\n\nNo. of questions 5\n\nMax marks 10\n\n0.5 negative marks for wrong answer and 2 marks for one correct answer"
+	},
+	[{
+		"multi": false,
+		"image": false,
+		"question": "———— is the complex of mental characteristics that makes each of use unique from other people.",
+		"option1": "Heredity",
+		"option2": "Emotional tone",
+		"option3": "Personality",
+		"explianation": "Personality includes the patterns of thought and emotions that cause us to do and say things in particular ways.  It is expressed through our temperament or emotional tone.  However, personality also colours our values, beliefs, and expectations.",
+		"answer": "3"
+	}, {
+		"multi": true,
+		"image": false,
+		"question": "Our personalities developed as a result of _____________.",
+		"option1": "Genetic Inheritance",
+		"option2": "Environmental Influences",
+		"option3": "None of the Above",
+		"explianation": "Both heredity and the environment shape our personalities, but heredity is usually more important in this process.  However, our values, beliefs, and expectations are mostly a result of socialisation and unique experiences that he have.",
+		"answer": "1,2"
+	}, {
+		"multi": true,
+		"image": false,
+		"question": "Which of the following things can have an effect on the development of an individual’s personality.",
+		"option1": "Physical & Mental capabilities",
+		"option2": "Health and physical appearances",
+		"option3": "Skin colour, gender and sexual orientation",
+		"option4": "None of the Above",
+		"explianation": "Your genetically inherited appearance, health, mental capabilities, skin color, gender, and sexual orientation may alter your personality as a result of the responses to you by others in your society and your reaction to them.",
+		"answer": "1, 2, 3"
+	}],
+	[{
+		"multi": false,
+		"image": false,
+		"question": "In china, children are usually taught to ___________ .",
+		"option1": "think and act independently of other family members",
+		"option2": "be self reliant rather than dependent on other family members",
+		"option3": "think and act a a member of their family and to suppress their own wishes when they are in conflict with the needs of the family",
+		"option4": "A & B",
+		"option5": "None of the above",
+		"explianation": "Independence of the family and self-reliance are viewed by Chinese as an indication of family failure and are discouraged. It is not surprising that traditionally Chinese children have not been allowed to act as equals to their parents.",
+		"answer": "3"
+	}, {
+		"multi": false,
+		"image": true,
+		"image_loc": "7d66c1f90c019985edaecd2c3c3ba640-0.png",
+		"question": "Most common personalty type within a society is ______________ .",
+		"option1": "A tradition-oriented personality",
+		"option2": "an inner directed personalty type",
+		"option3": "the modal personalty",
+		"explianation": "There usually is a range of normal personality types within a society, however, the one that most people share is the modal personality.",
+		"answer": "3"
+	}]
+]
